@@ -1,0 +1,42 @@
+@@ -3535,10 +3535,22 @@
+   Numpages                 = {10},
+   Owner                    = {Danilo},
+   Timestamp                = {2015.04.16}
+ }
+ 
++@Article{Yi05,
++  Title                    = {Dust \& magnet: multivariate information visualization using a magnet metaphor},
++  Author                   = {Yi, Ji Soo and Melton, Rachel and Stasko, John and Jacko, Julie A},
++  Journal                  = {Information Visualization},
++  Year                     = {2005},
++  Number                   = {4},
++  Pages                    = {239--256},
++  Volume                   = {4},
++
++  Publisher                = {SAGE Publications}
++}
++
+ @InProceedings{zhao2002evaluation,
+   Title                    = {Evaluation of hierarchical clustering algorithms for document datasets},
+   Author                   = {Y. Zhao and G. Karypis},
+   Booktitle                = {Proc. of CIKM'02},
+   Year                     = {2002},
+@@ -3563,17 +3575,5 @@
+ 
+   Owner                    = {Danilo},
+   Timestamp                = {2015.04.16}
+ }
+ 
+-@Article{Yi05,
+-  Title                    = {Dust \& Magnet: multivariate information visualization using a magnet metaphor},
+-  Journal                  = {Inf Vis},
+-  Year                     = {2005},
+-  Number                   = {4},
+-  Pages                    = {239-256},
+-  Volume                   = {4},
+-
+-  Owner                    = {Danilo},
+-  Timestamp                = {2015.04.16}
+-}
+-
+
